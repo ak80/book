@@ -41,7 +41,7 @@ fun book(pages: Int, name: String, split: Boolean) {
         println()
     }
 
-    // print even then odd
+    // print even then odd: print the even pages, take out of tray and reverse order but leave as is. put in tray
 }
 
 fun printPage(index: Int, offset: Int, pages: Int) {
